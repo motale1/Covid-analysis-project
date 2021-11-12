@@ -1,6 +1,7 @@
 Covid 19 Data Exploration
 
 Skills used: Joins, Aggregate functions, CTEs, Converting Data types
+
 Select*
 From PortfolioProject..CovidDeaths
 Order by 3,4
